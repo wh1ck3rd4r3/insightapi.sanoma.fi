@@ -1,0 +1,2 @@
+# insightapi.sanoma.fi
+Subdomain
