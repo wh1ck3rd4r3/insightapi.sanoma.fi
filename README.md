@@ -1,2 +1,2 @@
-# insightapi.sanoma.fi
+# https://insightapi.sanoma.fi
 Subdomain
